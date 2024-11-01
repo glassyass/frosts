@@ -1,5 +1,5 @@
 ---
-title: Glacier - Home - Slider V2
+title: Frostfire Images - Home - Slider V2
 builder: true
 
 # Content section
