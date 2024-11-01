@@ -1,5 +1,5 @@
 ---
-title: Glacier - Clean & Minimal Portfolio Hugo Theme
+title: FrostFire Images
 
 # Content section
 sections:
@@ -10,7 +10,7 @@ sections:
 
 # Parallax
 parallaxImage: images/parallax-1.jpg
-parallaxTitle: "minimal theme glacier"
+parallaxTitle: "FrostFire Images"
 effectTitle: "none" # Full list effects you can find in documentation theme
 parallaxVideo: "hide" # Support YouTube and Vimeo video 
 parallaxVideoLink: "" # If "parallaxVideo" is "show"
