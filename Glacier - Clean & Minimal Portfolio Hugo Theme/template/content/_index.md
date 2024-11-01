@@ -1,5 +1,5 @@
 ---
-title: Glacier - Clean & Minimal Portfolio Hugo Theme
+title: FrostFire Images
 
 # Content section
 sections:
