@@ -1,6 +1,6 @@
 # General Settings
-title = "Glacier - Clean & Minimal Portfolio Hugo Theme"
-baseURL = "" #YOUR SITE URL
+title = "FrostFire Images"
+baseURL = "https://frostfireimages.ca"  # Your site URL
 languageCode = "en-us"
 theme = "glacier"
 resourceDir = "resources"
